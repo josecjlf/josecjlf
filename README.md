@@ -2,7 +2,7 @@
 
 <ul>
   <li>Estudando para me tornar um programador fullstack. 💻 </li>
-  <li>Atualmente estou no segundo semestre. 📚 </li>
+  <li>Atualmente estou no terceiro semestre. 📚 </li>
   <li>Bastante curioso e com vontande de aprender. 🧐 </li>
 </ul>
 
