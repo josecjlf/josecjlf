@@ -1,1 +1,1 @@
-Faço Ciência da computação na UFBA.
+Faço ciência da computação na UFBA.
