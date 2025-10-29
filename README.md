@@ -1,1 +1,1 @@
-Faço ciência da computação na UFBA.
+Studying Computer Science at UFBA.
