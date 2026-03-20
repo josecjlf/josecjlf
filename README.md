@@ -1,4 +1,4 @@
-~~Studying Computer Science at UFBA.~~
+~~Studying Computer Science at UFBA.~~<br>
 Studying Information Systems at UFBA.
 
 Data enthusiast.
