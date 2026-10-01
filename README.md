@@ -25,7 +25,7 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=josecjlf&amp;theme=github_dark_dimmed&amp;locale=en&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;hide=contribs&amp;show=all_time_contribs&amp;custom_title=Estat%C3%ADsticas%20do%20GitHub" width="400" alt="Estatísticas totais do GitHub de José Carlos">
+  <img src="https://github-stats-extended.vercel.app/api?username=josecjlf&amp;theme=github_dark_dimmed&amp;locale=en&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;show=all_time_contribs&amp;line_height=22&amp;custom_title=Estat%C3%ADsticas%20do%20GitHub" width="400" alt="Estatísticas totais do GitHub de José Carlos">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=josecjlf&amp;theme=github_dark_dimmed&amp;locale=pt-br&amp;layout=compact&amp;langs_count=6" width="320" alt="Linguagens mais usadas nos repositórios de José Carlos">
 </p>
 
